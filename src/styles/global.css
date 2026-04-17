@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap');
+
+body {
+  font-family: "Manrope", sans-serif;
+  background: #fbf8f3;
+  color: #1f2937;
+}
+
+.bg-blur {
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+.text-balance {
+  text-wrap: balance;
+}
+
+.hero-pattern {
+  background:
+    radial-gradient(circle at top left, rgba(201, 142, 99, 0.22), transparent 28%),
+    radial-gradient(circle at bottom right, rgba(127, 155, 122, 0.24), transparent 30%),
+    linear-gradient(135deg, rgba(251, 248, 243, 0.92), rgba(244, 237, 225, 0.96));
+}
+
+.section-wave::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(circle at 10% 10%, rgba(127, 155, 122, 0.10), transparent 18%),
+    radial-gradient(circle at 90% 20%, rgba(201, 142, 99, 0.10), transparent 18%);
+  pointer-events: none;
+}
+
+.map-glow {
+  box-shadow: inset 0 0 0 1px rgba(50, 69, 59, 0.08), 0 16px 40px rgba(50, 69, 59, 0.08);
+}
+
+.focus-ring:focus-visible {
+  outline: 3px solid #c98e63;
+  outline-offset: 3px;
+}
+
+::selection {
+  background-color: rgba(201, 142, 99, 0.2);
+  color: #32453B;
+}
