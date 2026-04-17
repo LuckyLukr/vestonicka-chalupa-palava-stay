@@ -1,59 +1,6 @@
-# Věstonická Chalupa | Ubytování v srdci Pálavy
+# Website
 
-Vytvoř moderní, hravou a útulnou webovou prezentaci pro chalupu s názvem **Věstonická Chalupa**.
-
-Cílem webu je působit prémiově, přehledně a lákat na pobyt v srdci Pálavy a vinařské oblasti. Použij přírodní barevnou paletu, měkké tvary, jemné stíny, zaoblené rohy a vizuálně příjemné sekce. Design má být moderní, ale zároveň teplý, klidný a pohodový.
-
-Základní informace:
-- Název: Věstonická Chalupa
-- Lokalita: Dolní Věstonice 296, 691 29, Dolní Věstonice
-- Kapacita: až 8 hostů
-- Počet pokojů / ložnic: 3
-- Hlavní tahák: hned u Pálavy, ve vinařské oblasti
-
-Struktura webu:
-1. Hero sekce
-   - výrazný nadpis s názvem chalupy
-   - krátký podtitul s důrazem na Pálavu, vinařskou oblast a klidný pobyt
-   - CTA tlačítko „Kontaktovat majitele“
-   - vizuálně příjemné pozadí s přírodním / venkovským feelingem
-
-2. Fotogalerie
-   - krásně prezentovaná galerie s kartami nebo gridem
-   - pokud nejsou skutečné fotky, vytvoř stylové placeholdery, které lze snadno nahradit
-
-3. O chalupě / vybavení
-   - vysvětli, že chata je plně vybavená pro relax na Pálavě
-   - uveď:
-     - vybavená kuchyň
-     - TV
-     - prostorné vnitřní i venkovní posezení s grilem
-     - koupelna se sprchovým koutem
-     - samostatné WC
-
-4. Pokoje / kapacita
-   - zdůrazni 3 ložnice a až 8 hostů
-   - udělej přehledný blok s ikonami nebo kartami
-
-5. Ceník
-   - týdenní cena: 25 000 Kč
-   - minimální cena pronájmu celé chaty na jednu noc: 4 000 Kč do 7 osob
-   - od 8 osob: 600 Kč za osobu / noc
-   - chatu pronajímáme od dvou nocí
-   - mimo sezónu je možné pronajmout chatu i na víkend
-   - v období letních prázdnin pouze turnusově od soboty do soboty
-   - cena za letní prázdniny: 25 000 Kč / týden
-   - max. 10 osob v letních prázdninách
-
-6. Co je v ceně
-   - ubytovací poplatky
-   - pronájem chaty s příslušenstvím
-   - ložní prádlo
-   - ručníky
-
-7. Rezervace / poptávka
-   - místo klasického rezervačního systému vytvoř sekci „Poptávka a rezervace“
-   - napiš, že při zájmu o pronájem je potřeba do 5 dnů zaplatit rezervač
+A website generated and deployed via [Jean AI](https://jeanai.cz).
 
 ## Getting Started
 
@@ -71,7 +18,3 @@ npm run build
 Tailwind CSS is preconfigured through Vite and loaded from `src/tailwind.css`.
 
 Built with React + Vite. Deployed via Jean AI.
-
-## Images
-
-This project includes 1 user-supplied image(s) in `public/images/`.
